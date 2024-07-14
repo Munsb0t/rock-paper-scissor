@@ -1,0 +1,61 @@
+
+body{
+    background-color: rgb(53, 161, 161);
+    color: white;
+    font-family: Arial;
+    
+}
+
+.Title1
+{
+    font-size:30px;
+    font-weight: bold;
+}
+
+.move-button
+{   
+    border:none;
+    width: 120px;
+    height:120px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: rgb(53, 161, 161);
+
+}
+.move
+{
+
+   
+    width: 120px;
+    height:120px;
+    margin-right: 10px;
+    cursor: pointer;
+  
+}
+.result
+{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 50px;
+    color: rgb(255, 243, 176);
+}
+
+.move-icon
+{ width: 120px;
+    height:120px;
+    margin-right: 10px;
+   
+
+}
+.Reset
+{
+    height:50px;
+    width: 120px;
+    border-radius: 20px;
+}
+.score
+{
+    font-family: Arial;
+    font-size: 28px;
+}
